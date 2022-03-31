@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**henriquetmaia/henriquetmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 &nbsp;&nbsp; I am a final year PhD. candidate at Columbia University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 &nbsp;&nbsp; I am interested in physics-based simulation, machine learning, and computational fabrication! I love all things graphics, vision, deep learning, and HCI.
+
+📫 &nbsp;&nbsp; How to reach me -- see http://henrique.is/here.
+
+💬 &nbsp;&nbsp; Ask me about where to eat in NYC!
+
+😄 &nbsp;&nbsp;Pronouns: He/him
+
+⚡🔎 &nbsp;&nbsp; Fun fact: I am on the job market!
